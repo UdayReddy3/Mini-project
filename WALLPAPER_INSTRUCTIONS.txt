@@ -1,0 +1,39 @@
+# 🖼️ WALLPAPER SETUP GUIDE
+
+## 📁 Folder Location
+
+Your wallpaper folder is here:
+```
+c:\Users\J.KARTHIK REDDY\Desktop\kk\plant_disease_detection\assets\wallpapers\
+```
+
+## ✅ What to Do
+
+1. **Open** this folder in Windows Explorer
+2. **Copy your beautiful wallpaper image** into this folder
+3. **Supported formats**: JPG, PNG, WebP, BMP, GIF
+4. **Recommended size**: 1920×1080 (Full HD) or higher
+5. **Example filename**: `field.jpg`, `crop.png`, `wallpaper.jpg`
+
+## 🚀 After Uploading
+
+Once you place your image:
+
+1. I will automatically detect it
+2. Convert it to web format
+3. Set it as the dashboard background
+4. Restart the app
+5. Your beautiful wallpaper will be live! 🎉
+
+## 📋 Example
+
+If you place a file called `field.jpg` in the wallpapers folder:
+- Path: `assets/wallpapers/field.jpg`
+- The system will automatically use it
+- No code changes needed!
+
+---
+
+**Ready when you are!** 
+
+Just place your wallpaper image in the folder and let me know the filename. I'll take care of the rest! 🎨✨
